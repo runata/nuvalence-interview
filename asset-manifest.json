@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/static/js/main.0124ea3f.chunk.js",
-    "main.js.map": "/static/js/main.0124ea3f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c45d839d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c45d839d.js.map",
-    "static/js/2.c0534906.chunk.js": "/static/js/2.c0534906.chunk.js",
-    "static/js/2.c0534906.chunk.js.map": "/static/js/2.c0534906.chunk.js.map",
-    "static/js/3.08d5f810.chunk.js": "/static/js/3.08d5f810.chunk.js",
-    "static/js/3.08d5f810.chunk.js.map": "/static/js/3.08d5f810.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.c0534906.chunk.js.LICENSE.txt": "/static/js/2.c0534906.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/nuvalence-interview/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/nuvalence-interview/static/js/main.0124ea3f.chunk.js",
+    "main.js.map": "/nuvalence-interview/static/js/main.0124ea3f.chunk.js.map",
+    "runtime-main.js": "/nuvalence-interview/static/js/runtime-main.4c3b6f3c.js",
+    "runtime-main.js.map": "/nuvalence-interview/static/js/runtime-main.4c3b6f3c.js.map",
+    "static/js/2.c0534906.chunk.js": "/nuvalence-interview/static/js/2.c0534906.chunk.js",
+    "static/js/2.c0534906.chunk.js.map": "/nuvalence-interview/static/js/2.c0534906.chunk.js.map",
+    "static/js/3.08d5f810.chunk.js": "/nuvalence-interview/static/js/3.08d5f810.chunk.js",
+    "static/js/3.08d5f810.chunk.js.map": "/nuvalence-interview/static/js/3.08d5f810.chunk.js.map",
+    "index.html": "/nuvalence-interview/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/nuvalence-interview/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c0534906.chunk.js.LICENSE.txt": "/nuvalence-interview/static/js/2.c0534906.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/nuvalence-interview/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c45d839d.js",
+    "static/js/runtime-main.4c3b6f3c.js",
     "static/js/2.c0534906.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.0124ea3f.chunk.js"
