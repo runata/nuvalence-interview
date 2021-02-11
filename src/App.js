@@ -50,7 +50,7 @@ const App = () => {
           `at points ${intersect.map(point => `(${point.x}, ${point.y}) `)}`)
         }
 
-        // Check for adjacency
+        // Check for adjacement
         const adjacent = rect1.adjacent(rect2)
         if (adjacent) { 
           result.push(`${objects[i].stroke} rectangle ${adjacent} adjacent to ${objects[j].stroke} rectangle`)
@@ -59,21 +59,21 @@ const App = () => {
     }
 
     // Check for containment
-    objects.forEach(object => {
+    objects.forEach((object, i) => {
       const rect1 = new Rectangle(
         object.aCoords.tl.x,
         object.aCoords.tl.y,
         object.aCoords.br.x,
         object.aCoords.br.y
       )
-      objects.forEach(otherObject => {
+      objects.forEach((otherObject, j) => {
         const rect2 = new Rectangle(
           otherObject.aCoords.tl.x,
           otherObject.aCoords.tl.y,
           otherObject.aCoords.br.x,
           otherObject.aCoords.br.y
         )
-        if (rect1.contains(rect2)) {
+        if (i !== j && rect1.contains(rect2)) {
           result.push(`${object.stroke} rectangle contains ${otherObject.stroke} rectangle`)
         }
       })
