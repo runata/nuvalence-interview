@@ -1,6 +1,6 @@
 # This project is prepared for Nuvalence technical interview
 
-# Check out interective [DEMO](https://runata.github.io/nuvalence-interview/)
+# Check out an interactive [DEMO](https://runata.github.io/nuvalence-interview/)
 
 ## Available Scripts
 
